@@ -1,4 +1,8 @@
 <h1 align="center"> UTILIZAÇÃO DE SENSORES HC-SR04 E QHT11 PARA MENSURAÇÃO DA VELOCIDADE DO SOM ATRAVÉS DO ARDUINO </h1>
+<h2 align = "center">
+<img src="https://img.shields.io/github/license/guidariani/medir_velocidade-do-som"alt="Badge de Licença MIT">
+<img src="https://img.shields.io/badge/Status-Finished-green"alt="bagde de status finalizado"</h2>
+ 
 <h3 align="center"> Guilherme G. Dariani, Gustavo D. Verçosa, Shaian J. Anghinoni e Vitor E. G. Barelli. <br>
 Ilum Escola de Ciência, CNPEM, Campinas - Brasil
 </h3>
